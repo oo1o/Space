@@ -1,7 +1,6 @@
 # Space
 Space performance: Graduates the number of astronauts and the name of each astronaut with the press of a button
 <br>
-![](photo_space.jpg)
 Requirements: 
 Download library: ISS_Info
 -
